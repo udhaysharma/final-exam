@@ -1,0 +1,35 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.counter-countainer{
+    background-color: aliceblue;
+    padding: 30px 50px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px black;
+
+}
+
+#count-display{
+    font-size: 2rem;
+    margin-bottom: 20px;
+
+}
+
+.counter-button{
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    
+
+    
+
+}
